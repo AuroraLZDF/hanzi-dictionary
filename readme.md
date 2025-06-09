@@ -1,4 +1,4 @@
 app功能简介：
     输入一个汉字，输出这个汉字的基本释义和详细释义
 
-![20250609151153_78805a221a988e79ef3f42d7c5bfd418.jpg](..%2F..%2F..%2F..%2Faurora%2FDownloads%2F20250609151153_78805a221a988e79ef3f42d7c5bfd418.jpg)
+![demo.jpg](./public/demo.jpg)
