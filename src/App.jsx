@@ -10,7 +10,7 @@ import './App.css'
 // API 配置常量
 const API_CONFIG = {
     BASE_URL: 'https://apis.tianapi.com/xhzd/index',
-    API_KEY: '1f1cc9141b693e8b9cca798193674ced'
+    API_KEY: ''
 }
 
 function App() {
